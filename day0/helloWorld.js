@@ -13,3 +13,5 @@ function greeting(parameterVariable) {
     console.log(parameterVariable)
 
 }
+
+exports.greeting = greeting;
